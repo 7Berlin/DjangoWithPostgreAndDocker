@@ -1,11 +1,8 @@
 <div align="center">
-  <a href="https://instagram.com/m.hadi.hajihosseini">
+  <a href="https://instagram.com/7berlinn">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="100"/>
   </a>
-  <a href="https://codingyar.com">
-    <img src="https://img.shields.io/badge/website-blue?style=for-the-badge&logo=About.me&logoColor=white" width="100"/>
-  </a>
-  <a href="https://t.me/hajihosseini_cy">
+  <a href="https://t.me/nousername007">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="100"/>
   </a>
 </div>
@@ -25,7 +22,7 @@ This is a boilerplate to start a django project with postgresql as database runn
 First clone the project.
 
 ```bash
-git clone https://github.com/hadiMh/Django_Docker_with_PostgreSql.git
+git clone https://github.com/7Berlin/DjangoWithPostgreAndDocker.git
 ```
 
 Then make sure Docker is running.
